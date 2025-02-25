@@ -1,3 +1,26 @@
 [
-#you will see your chat history here 
+{
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning optimally, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "What is the current weather of pune?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather in Pune is 33\u00b0C, with a maximum temperature of 34\u00b0C and a minimum temperature of 16\u00b0C. Additionally, the RealFeel temperature is 85\u00b0F, with a humidity of 20% and a wind speed of 5 mph."
+    },
+    {
+        "role": "user",
+        "content": "Who is the prime minister of india?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff in 2024, the Prime Minister of India is Shri Narendra Modi."
+    }
 ]
