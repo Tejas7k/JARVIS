@@ -107,7 +107,7 @@ JARVIS
 ![JARVIS Logo](assets/jarvis.gif)
 
 ### Chat Interface
-![Chat Screenshot](https://github.com/user-attachments/assets/chat-interface.png)
+![Chat Screenshot]([https://github.com/user-attachments/assets/chat-interface.pn](https://github.com/Tejas7k/JARVIS/blob/main/screenshots/chat.png))
 
 ---
 
