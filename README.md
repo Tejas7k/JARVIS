@@ -104,10 +104,10 @@ JARVIS
 ## 📸 Screenshots
 
 ### Home Screen
-![JARVIS Logo](screenshots/chat.png)
+![JARVIS Logo](screenshots/home.png)
 
 ### Chat Interface
-![Chat Screenshot]([https://github.com/user-attachments/assets/chat-interface.pn](https://github.com/Tejas7k/JARVIS/blob/main/screenshots/chat.png))
+![Chat Screenshot](screenshots/chat.png))
 
 ---
 
